@@ -528,7 +528,7 @@ Publish the website in the LocalHost.
                 </div>
             </div>
             <div class="footer-bottom text-center">
-                <p>&copy; 2025 Dribbble Clone. Created by Your Name</p>
+                <p>&copy; 2025 Dribbble Clone. Created by R.Sairam</p>
             </div>
         </div>
     </footer>
